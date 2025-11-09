@@ -11,7 +11,7 @@ This project was created as a learning exercise to practice **vanilla JavaScript
 ---
 
 ## 🖼️ Preview
-![Word Guess Game](./screenshot.png)
+![Word Guess Game](./word-guess-game.png)
 
 ---
 
